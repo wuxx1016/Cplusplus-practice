@@ -1,0 +1,1 @@
+This is a simple Monte Carlo pricer but be improved ifwe used a class to encapsulate the notion of the pay-off of a vanilla option by the Book C++ Patterns Design and Derivatives Pricing. 
