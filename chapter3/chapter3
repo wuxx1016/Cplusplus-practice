@@ -1,0 +1,2 @@
+This is a practice of chapter 3 of C++ design pattern and derivatives pricing. This chapter shows the examples of how to expand PayOff Class using inheritance and virtual function
+to answer the question of what 'is a' PayOff in chapter 2. 
